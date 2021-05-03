@@ -1,7 +1,10 @@
-# Livro de receitas :man_cook:
+- # Livro de receitas :man_cook:
 
-Olá, bem vindo ao meu livro de receitas :wave:
+  Olá, bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de frango
-- Pavê
-- Hambúrguer 
+  - Strogonoff de frango
+
+  - Pavê
+  - Hambúrguer 
+  - Lasanha
+
